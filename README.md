@@ -1,28 +1,10 @@
-# coc8c4dffa7bcd2e6a1ab9372
+Here we practiced data transfer from parent to child components using React.useState to store data and pass through parents to children component using props. 
 
-Quick start:
+A great exercise to lay down fundamentals which includes passing of function parameters from parent to child components for functionality. 
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+![image](https://github.com/user-attachments/assets/158846c7-ffc7-4b24-8421-f9486321f8cc)
 
-## Development
+User clicks on boxes and the value saved in state is toggled on and off.
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+![image](https://github.com/user-attachments/assets/c17c7c8f-0f8e-4c9b-809a-cc6f76b85080)
 
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
